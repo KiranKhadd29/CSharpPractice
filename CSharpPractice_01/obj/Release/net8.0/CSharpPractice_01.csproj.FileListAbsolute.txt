@@ -1,0 +1,15 @@
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\bin\Release\net8.0\CSharpPractice_01.exe
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\bin\Release\net8.0\CSharpPractice_01.deps.json
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\bin\Release\net8.0\CSharpPractice_01.runtimeconfig.json
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\bin\Release\net8.0\CSharpPractice_01.dll
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\bin\Release\net8.0\CSharpPractice_01.pdb
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.AssemblyInfoInputs.cache
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.AssemblyInfo.cs
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.csproj.CoreCompileInputs.cache
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.sourcelink.json
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.dll
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\refint\CSharpPractice_01.dll
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.pdb
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\CSharpPractice_01.genruntimeconfig.cache
+D:\Personal\Practice\cSharp\udemy\CSharpPractice\CSharpPractice_01\obj\Release\net8.0\ref\CSharpPractice_01.dll
